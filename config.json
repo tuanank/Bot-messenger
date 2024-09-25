@@ -45,12 +45,12 @@
         }
     },
     "DESIGN": {
-        "BOT": "Touniie",
-        "Title": "V3.8",
+        "BOT": "Zeki",
+        "Title": "1.0",
         "Theme": "flower",
-        "Admin": "Nguyen Phung Nhat Tuong",
+        "Admin": "Khanh Shado",
         "Setup": {
-            "BOT": "Tên bot thế thôi",
+            "BOT": "Zeki",
             "Theme": "Mày có thể dùng các Theme như: Aqua, Fiery, Blue, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, and Hacker to enhance your terminal logs."
         }
     },
