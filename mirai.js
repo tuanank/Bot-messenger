@@ -697,7 +697,7 @@ function onBot({ models }) {
     //return process.exit(0);
     //};
     // if (!global.checkBan) logger(global.getText('mirai', 'warningSourceCode'), 'BANNED');
-    //global.config.autoClean && (global.data.threadInfo.clear(), global.client.handleReply = global.client.handleReaction = {});
+    //global.config.autClean && (global.data.threadInfo.clear(), global.client.handleReply = global.client.handleReaction = {});
     //if (global.config.DeveloperMode == !![])
     //return logger(global.getText('mirai', 'refreshListen'), 'DEV MODE');
     //}, 600000);
