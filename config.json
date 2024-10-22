@@ -26,7 +26,7 @@
         "duangua.js"
     ],
     "eventDisabled": [],
-    "BOXNOTI": "7082665011828775",
+    "BOXNOTI": "",
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
@@ -34,10 +34,10 @@
     "BOTNAME": "Bot",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100090458979503"
+        "61555625227297"
     ],
     "NDH": [
-        "100090458979503"
+        "61555625227297"
     ],
     "DATABASE": {
         "sqlite": {
@@ -45,12 +45,12 @@
         }
     },
     "DESIGN": {
-        "BOT": "Zeki",
+        "BOT": "Bii",
         "Title": "1.0",
         "Theme": "flower",
-        "Admin": "Khanh Shado",
+        "Admin": "Tuấn Ank",
         "Setup": {
-            "BOT": "Zeki",
+            "BOT": "Bii",
             "Theme": "Mày có thể dùng các Theme như: Aqua, Fiery, Blue, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, and Hacker to enhance your terminal logs."
         }
     },
